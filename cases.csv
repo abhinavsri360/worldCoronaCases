@@ -1,4 +1,4 @@
-index, country, cases, dead, recovered
+index,country,cases,dead,recovered
 1,United States,958863,54161,108083
 2,Spain,223759,23190,98732
 3,Italy,195351,26384,63120
@@ -10,10 +10,10 @@ index, country, cases, dead, recovered
 9,China,82827,4632,77346
 10,Russia,80949,747,6767
 11,Brazil,59324,4057,27655
-12,Belgium,46134,7094,104785
+12,Belgium,46134,7094,10785
 13,Canada,45354,2465,16425
 14,Netherlands,37190,4409,—
-15,Switzerland,28619,1596,21300
+15,Switzerland,28656,1603,21300
 16,India,26496,824,5804
 17,Peru,25331,700,7797
 18,Portugal,23392,880,1277
@@ -29,8 +29,8 @@ index, country, cases, dead, recovered
 28,Chile,12858,181,6746
 29,Pakistan,12723,269,2866
 30,Poland,11395,526,2265
-31,South Korea,10728,242,8717
-32,Romania,10635,579,2890
+31,Romania,11036,608,3054
+32,South Korea,10728,242,8717
 33,United Arab Emirates,9813,71,1887
 34,Belarus,9590,67,1573
 35,Qatar,9358,10,929
@@ -59,7 +59,7 @@ index, country, cases, dead, recovered
 58,Kuwait,2892,19,656
 59,Kazakhstan,2660,25,677
 60,Bahrain,2588,8,1160
-61,Greece,2506,130,577
+61,Greece,2506,133,577
 62,Hungary,2500,272,485
 63,Croatia,2016,54,1034
 64,Oman,1998,10,333
@@ -92,7 +92,7 @@ index, country, cases, dead, recovered
 91,Cyprus,810,14,148
 92,Andorra,738,40,344
 93,Kosovo,731,20,165
-94,Albania,712,27,403
+94,Albania,726,27,410
 95,Lebanon,704,24,143
 96,Costa Rica,693,6,242
 97,Niger,684,27,325

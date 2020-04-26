@@ -19,7 +19,7 @@ containers = page_soup.findAll("tr")
 
 filename = "cases.csv"
 f = open(filename, "w")
-header = "index, country, cases, dead, recovered\n"
+header = "index,country,cases,dead,recovered\n"
 f.write(header)
 
 for i in range (2,220):
@@ -38,12 +38,11 @@ csvfilepath = "cases.csv"
 jsonfilepath = "world.json"
 
 # Read csv and add data to dictionary
-data = {}
+data = []
 with open(csvfilepath) as csvFile:
 	csvReader = csv.DictReader(csvFile)
 	for csvRow in csvReader:
-		index = csvRow["index"]
-		data[index] = csvRow
+		data.append(csvRow)
 
 root = data
 
