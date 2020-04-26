@@ -2,716 +2,716 @@
     "1": {
         "index": "1",
         " country": "United States",
-        " cases": "927150",
-        " dead": "52400",
-        " recovered": "101315"
+        " cases": "958863",
+        " dead": "54161",
+        " recovered": "108083"
     },
     "2": {
         "index": "2",
         " country": "Spain",
-        " cases": "219764",
-        " dead": "22524",
-        " recovered": "92355"
+        " cases": "223759",
+        " dead": "23190",
+        " recovered": "98732"
     },
     "3": {
         "index": "3",
         " country": "Italy",
-        " cases": "192994",
-        " dead": "25969",
-        " recovered": "60498"
+        " cases": "195351",
+        " dead": "26384",
+        " recovered": "63120"
     },
     "4": {
         "index": "4",
         " country": "Germany",
-        " cases": "155054",
-        " dead": "5767",
-        " recovered": "99862"
+        " cases": "156513",
+        " dead": "5877",
+        " recovered": "100129"
     },
     "5": {
         "index": "5",
         " country": "United Kingdom",
-        " cases": "143464",
-        " dead": "19506",
+        " cases": "148377",
+        " dead": "20319",
         " recovered": "\u2014"
     },
     "6": {
         "index": "6",
         " country": "France",
-        " cases": "122577",
-        " dead": "22245",
-        " recovered": "43493"
+        " cases": "124114",
+        " dead": "22614",
+        " recovered": "44594"
     },
     "7": {
         "index": "7",
         " country": "Turkey",
-        " cases": "104912",
-        " dead": "2600",
-        " recovered": "21737"
+        " cases": "107773",
+        " dead": "2706",
+        " recovered": "25582"
     },
     "8": {
         "index": "8",
         " country": "Iran",
-        " cases": "88194",
-        " dead": "5574",
-        " recovered": "66596"
+        " cases": "89328",
+        " dead": "5650",
+        " recovered": "68193"
     },
     "9": {
         "index": "9",
         " country": "China",
-        " cases": "82816",
+        " cases": "82827",
         " dead": "4632",
         " recovered": "77346"
     },
     "10": {
         "index": "10",
         " country": "Russia",
-        " cases": "74588",
-        " dead": "681",
-        " recovered": "6250"
+        " cases": "80949",
+        " dead": "747",
+        " recovered": "6767"
     },
     "11": {
         "index": "11",
         " country": "Brazil",
-        " cases": "52995",
-        " dead": "3670",
-        " recovered": "26573"
+        " cases": "59324",
+        " dead": "4057",
+        " recovered": "27655"
     },
     "12": {
         "index": "12",
         " country": "Belgium",
-        " cases": "45325",
-        " dead": "6917",
-        " recovered": "10417"
+        " cases": "46134",
+        " dead": "7094",
+        " recovered": "104785"
     },
     "13": {
         "index": "13",
         " country": "Canada",
-        " cases": "43888",
-        " dead": "2302",
-        " recovered": "15541"
+        " cases": "45354",
+        " dead": "2465",
+        " recovered": "16425"
     },
     "14": {
         "index": "14",
         " country": "Netherlands",
-        " cases": "36535",
-        " dead": "4289",
+        " cases": "37190",
+        " dead": "4409",
         " recovered": "\u2014"
     },
     "15": {
         "index": "15",
         " country": "Switzerland",
-        " cases": "28541",
-        " dead": "1593",
-        " recovered": "21000"
+        " cases": "28619",
+        " dead": "1596",
+        " recovered": "21300"
     },
     "16": {
         "index": "16",
         " country": "India",
-        " cases": "24506",
-        " dead": "775",
-        " recovered": "5063"
+        " cases": "26496",
+        " dead": "824",
+        " recovered": "5804"
     },
     "17": {
         "index": "17",
-        " country": "Portugal",
-        " cases": "22797",
-        " dead": "854",
-        " recovered": "1228"
+        " country": "Peru",
+        " cases": "25331",
+        " dead": "700",
+        " recovered": "7797"
     },
     "18": {
         "index": "18",
+        " country": "Portugal",
+        " cases": "23392",
+        " dead": "880",
+        " recovered": "1277"
+    },
+    "19": {
+        "index": "19",
         " country": "Ecuador",
         " cases": "22719",
         " dead": "576",
         " recovered": "1366"
     },
-    "19": {
-        "index": "19",
-        " country": "Peru",
-        " cases": "21648",
-        " dead": "634",
-        " recovered": "7496"
-    },
     "20": {
         "index": "20",
         " country": "Ireland",
-        " cases": "18184",
-        " dead": "1014",
+        " cases": "18561",
+        " dead": "1063",
         " recovered": "9233"
     },
     "21": {
         "index": "21",
         " country": "Sweden",
-        " cases": "17567",
-        " dead": "2152",
+        " cases": "18177",
+        " dead": "2192",
         " recovered": "550"
     },
     "22": {
         "index": "22",
-        " country": "Israel",
-        " cases": "15148",
-        " dead": "198",
-        " recovered": "6159"
+        " country": "Saudi Arabia",
+        " cases": "16299",
+        " dead": "136",
+        " recovered": "2215"
     },
     "23": {
         "index": "23",
-        " country": "Saudi Arabia",
-        " cases": "15102",
-        " dead": "127",
-        " recovered": "2049"
+        " country": "Israel",
+        " cases": "15398",
+        " dead": "199",
+        " recovered": "6602"
     },
     "24": {
         "index": "24",
         " country": "Austria",
-        " cases": "15068",
-        " dead": "530",
-        " recovered": "11872"
+        " cases": "15143",
+        " dead": "542",
+        " recovered": "12282"
     },
     "25": {
         "index": "25",
-        " country": "Japan",
-        " cases": "13050",
-        " dead": "348",
-        " recovered": "2536"
+        " country": "Mexico",
+        " cases": "13842",
+        " dead": "1305",
+        " recovered": "2627"
     },
     "26": {
         "index": "26",
-        " country": "Mexico",
-        " cases": "12872",
-        " dead": "1221",
-        " recovered": "2627"
+        " country": "Singapore",
+        " cases": "13624",
+        " dead": "12",
+        " recovered": "1002"
     },
     "27": {
         "index": "27",
-        " country": "Singapore",
-        " cases": "12693",
-        " dead": "12",
-        " recovered": "956"
+        " country": "Japan",
+        " cases": "13238",
+        " dead": "360",
+        " recovered": "2536"
     },
     "28": {
         "index": "28",
         " country": "Chile",
-        " cases": "12306",
-        " dead": "174",
-        " recovered": "6327"
+        " cases": "12858",
+        " dead": "181",
+        " recovered": "6746"
     },
     "29": {
         "index": "29",
         " country": "Pakistan",
-        " cases": "11940",
-        " dead": "253",
-        " recovered": "2755"
+        " cases": "12723",
+        " dead": "269",
+        " recovered": "2866"
     },
     "30": {
         "index": "30",
         " country": "Poland",
-        " cases": "11067",
-        " dead": "499",
-        " recovered": "2126"
+        " cases": "11395",
+        " dead": "526",
+        " recovered": "2265"
     },
     "31": {
         "index": "31",
         " country": "South Korea",
-        " cases": "10718",
-        " dead": "240",
-        " recovered": "8635"
+        " cases": "10728",
+        " dead": "242",
+        " recovered": "8717"
     },
     "32": {
         "index": "32",
         " country": "Romania",
-        " cases": "10417",
-        " dead": "552",
-        " recovered": "2817"
+        " cases": "10635",
+        " dead": "579",
+        " recovered": "2890"
     },
     "33": {
         "index": "33",
+        " country": "United Arab Emirates",
+        " cases": "9813",
+        " dead": "71",
+        " recovered": "1887"
+    },
+    "34": {
+        "index": "34",
         " country": "Belarus",
         " cases": "9590",
         " dead": "67",
         " recovered": "1573"
     },
-    "34": {
-        "index": "34",
-        " country": "United Arab Emirates",
-        " cases": "9281",
-        " dead": "64",
-        " recovered": "1760"
-    },
     "35": {
         "index": "35",
+        " country": "Qatar",
+        " cases": "9358",
+        " dead": "10",
+        " recovered": "929"
+    },
+    "36": {
+        "index": "36",
+        " country": "Ukraine",
+        " cases": "8617",
+        " dead": "209",
+        " recovered": "840"
+    },
+    "37": {
+        "index": "37",
         " country": "Indonesia",
         " cases": "8607",
         " dead": "720",
         " recovered": "1042"
     },
-    "36": {
-        "index": "36",
-        " country": "Qatar",
-        " cases": "8525",
-        " dead": "10",
-        " recovered": "809"
-    },
-    "37": {
-        "index": "37",
-        " country": "Denmark",
-        " cases": "8210",
-        " dead": "403",
-        " recovered": "5526"
-    },
     "38": {
         "index": "38",
-        " country": "Ukraine",
-        " cases": "8125",
-        " dead": "201",
-        " recovered": "782"
+        " country": "Denmark",
+        " cases": "8445",
+        " dead": "418",
+        " recovered": "5669"
     },
     "39": {
         "index": "39",
         " country": "Serbia",
-        " cases": "7483",
-        " dead": "144",
-        " recovered": "1094"
+        " cases": "7779",
+        " dead": "151",
+        " recovered": "1152"
     },
     "40": {
         "index": "40",
-        " country": "Norway",
-        " cases": "7463",
-        " dead": "199",
-        " recovered": "\u2014"
+        " country": "Philippines",
+        " cases": "7579",
+        " dead": "501",
+        " recovered": "862"
     },
     "41": {
         "index": "41",
-        " country": "Philippines",
-        " cases": "7294",
-        " dead": "494",
-        " recovered": "792"
+        " country": "Norway",
+        " cases": "7499",
+        " dead": "201",
+        " recovered": "\u2014"
     },
     "42": {
         "index": "42",
         " country": "Czech Republic",
-        " cases": "7273",
-        " dead": "215",
-        " recovered": "2389"
+        " cases": "7352",
+        " dead": "219",
+        " recovered": "2471"
     },
     "43": {
         "index": "43",
         " country": "Australia",
-        " cases": "6695",
-        " dead": "80",
-        " recovered": "5372"
+        " cases": "6711",
+        " dead": "83",
+        " recovered": "5539"
     },
     "44": {
         "index": "44",
         " country": "Dominican Republic",
-        " cases": "5749",
-        " dead": "267",
-        " recovered": "763"
+        " cases": "5926",
+        " dead": "273",
+        " recovered": "822"
     },
     "45": {
         "index": "45",
         " country": "Malaysia",
-        " cases": "5742",
+        " cases": "5780",
         " dead": "98",
-        " recovered": "3762"
+        " recovered": "3862"
     },
     "46": {
         "index": "46",
         " country": "Panama",
-        " cases": "5338",
-        " dead": "154",
-        " recovered": "319"
+        " cases": "5538",
+        " dead": "159",
+        " recovered": "338"
     },
     "47": {
         "index": "47",
+        " country": "Colombia",
+        " cases": "5142",
+        " dead": "233",
+        " recovered": "1067"
+    },
+    "48": {
+        "index": "48",
         " country": "Bangladesh",
         " cases": "4998",
         " dead": "140",
         " recovered": "112"
     },
-    "48": {
-        "index": "48",
-        " country": "Colombia",
-        " cases": "4881",
-        " dead": "225",
-        " recovered": "1003"
-    },
     "49": {
         "index": "49",
         " country": "Finland",
-        " cases": "4395",
-        " dead": "177",
+        " cases": "4475",
+        " dead": "186",
         " recovered": "2500"
     },
     "50": {
         "index": "50",
         " country": "South Africa",
-        " cases": "4220",
-        " dead": "79",
+        " cases": "4361",
+        " dead": "86",
         " recovered": "1473"
     },
     "51": {
         "index": "51",
         " country": "Egypt",
-        " cases": "4092",
-        " dead": "294",
-        " recovered": "1075"
+        " cases": "4319",
+        " dead": "307",
+        " recovered": "1114"
     },
     "52": {
         "index": "52",
         " country": "Morocco",
-        " cases": "3758",
-        " dead": "158",
-        " recovered": "486"
+        " cases": "3897",
+        " dead": "159",
+        " recovered": "537"
     },
     "53": {
         "index": "53",
-        " country": "Luxembourg",
-        " cases": "3695",
-        " dead": "85",
-        " recovered": "760"
+        " country": "Argentina",
+        " cases": "3767",
+        " dead": "185",
+        " recovered": "1019"
     },
     "54": {
         "index": "54",
-        " country": "Argentina",
-        " cases": "3595",
-        " dead": "176",
-        " recovered": "965"
+        " country": "Luxembourg",
+        " cases": "3711",
+        " dead": "85",
+        " recovered": "760"
     },
     "55": {
         "index": "55",
-        " country": "Algeria",
-        " cases": "3127",
-        " dead": "415",
-        " recovered": "1408"
+        " country": "Moldova",
+        " cases": "3304",
+        " dead": "94",
+        " recovered": "825"
     },
     "56": {
         "index": "56",
-        " country": "Moldova",
-        " cases": "3110",
-        " dead": "87",
-        " recovered": "755"
+        " country": "Algeria",
+        " cases": "3256",
+        " dead": "419",
+        " recovered": "1479"
     },
     "57": {
         "index": "57",
         " country": "Thailand",
-        " cases": "2907",
+        " cases": "2922",
         " dead": "51",
-        " recovered": "2547"
+        " recovered": "2594"
     },
     "58": {
         "index": "58",
         " country": "Kuwait",
-        " cases": "2614",
-        " dead": "15",
-        " recovered": "613"
+        " cases": "2892",
+        " dead": "19",
+        " recovered": "656"
     },
     "59": {
         "index": "59",
         " country": "Kazakhstan",
-        " cases": "2525",
+        " cases": "2660",
         " dead": "25",
-        " recovered": "629"
+        " recovered": "677"
     },
     "60": {
         "index": "60",
         " country": "Bahrain",
-        " cases": "2518",
+        " cases": "2588",
         " dead": "8",
-        " recovered": "1113"
+        " recovered": "1160"
     },
     "61": {
         "index": "61",
         " country": "Greece",
-        " cases": "2490",
+        " cases": "2506",
         " dead": "130",
         " recovered": "577"
     },
     "62": {
         "index": "62",
         " country": "Hungary",
-        " cases": "2443",
-        " dead": "262",
-        " recovered": "458"
+        " cases": "2500",
+        " dead": "272",
+        " recovered": "485"
     },
     "63": {
         "index": "63",
         " country": "Croatia",
-        " cases": "2009",
-        " dead": "51",
-        " recovered": "982"
+        " cases": "2016",
+        " dead": "54",
+        " recovered": "1034"
     },
     "64": {
         "index": "64",
         " country": "Oman",
-        " cases": "1905",
+        " cases": "1998",
         " dead": "10",
-        " recovered": "329"
+        " recovered": "333"
     },
     "65": {
         "index": "65",
         " country": "Uzbekistan",
-        " cases": "1836",
+        " cases": "1865",
         " dead": "8",
-        " recovered": "689"
+        " recovered": "707"
     },
     "66": {
         "index": "66",
         " country": "Iceland",
-        " cases": "1789",
+        " cases": "1790",
         " dead": "10",
-        " recovered": "1509"
+        " recovered": "1570"
     },
     "67": {
         "index": "67",
         " country": "Iraq",
-        " cases": "1708",
+        " cases": "1763",
         " dead": "86",
-        " recovered": "1204"
+        " recovered": "1224"
     },
     "68": {
         "index": "68",
         " country": "Armenia",
-        " cases": "1677",
+        " cases": "1746",
         " dead": "28",
-        " recovered": "803"
+        " recovered": "833"
     },
     "69": {
         "index": "69",
         " country": "Estonia",
-        " cases": "1605",
+        " cases": "1635",
         " dead": "46",
-        " recovered": "184"
+        " recovered": "228"
     },
     "70": {
         "index": "70",
         " country": "Azerbaijan",
-        " cases": "1592",
+        " cases": "1617",
         " dead": "21",
-        " recovered": "1013"
+        " recovered": "1080"
     },
     "71": {
         "index": "71",
-        " country": "Afghanistan",
-        " cases": "1463",
-        " dead": "47",
-        " recovered": "206"
+        " country": "Cameroon",
+        " cases": "1518",
+        " dead": "53",
+        " recovered": "697"
     },
     "72": {
         "index": "72",
-        " country": "Cameroon",
-        " cases": "1430",
-        " dead": "43",
-        " recovered": "668"
+        " country": "Afghanistan",
+        " cases": "1499",
+        " dead": "47",
+        " recovered": "206"
     },
     "73": {
         "index": "73",
-        " country": "Lithuania",
-        " cases": "1426",
-        " dead": "41",
-        " recovered": "460"
+        " country": "Bosnia & Herzegovina",
+        " cases": "1486",
+        " dead": "57",
+        " recovered": "592"
     },
     "74": {
         "index": "74",
-        " country": "Bosnia & Herzegovina",
-        " cases": "1421",
-        " dead": "55",
-        " recovered": "538"
+        " country": "Lithuania",
+        " cases": "1438",
+        " dead": "41",
+        " recovered": "467"
     },
     "75": {
         "index": "75",
         " country": "Slovenia",
-        " cases": "1373",
-        " dead": "80",
-        " recovered": "211"
+        " cases": "1388",
+        " dead": "81",
+        " recovered": "219"
     },
     "76": {
         "index": "76",
         " country": "Slovakia",
-        " cases": "1360",
-        " dead": "17",
-        " recovered": "355"
+        " cases": "1379",
+        " dead": "18",
+        " recovered": "394"
     },
     "77": {
         "index": "77",
         " country": "North Macedonia",
-        " cases": "1326",
-        " dead": "57",
-        " recovered": "337"
+        " cases": "1367",
+        " dead": "59",
+        " recovered": "374"
     },
     "78": {
         "index": "78",
         " country": "Cuba",
-        " cases": "1285",
-        " dead": "49",
-        " recovered": "416"
+        " cases": "1337",
+        " dead": "51",
+        " recovered": "437"
     },
     "79": {
         "index": "79",
+        " country": "Puerto Rico",
+        " cases": "1307",
+        " dead": "83",
+        " recovered": "\u2014"
+    },
+    "80": {
+        "index": "80",
+        " country": "Bulgaria",
+        " cases": "1290",
+        " dead": "55",
+        " recovered": "205"
+    },
+    "81": {
+        "index": "81",
         " country": "Ghana",
         " cases": "1279",
         " dead": "10",
         " recovered": "134"
     },
-    "80": {
-        "index": "80",
-        " country": "Puerto Rico",
-        " cases": "1276",
-        " dead": "77",
-        " recovered": "\u2014"
-    },
-    "81": {
-        "index": "81",
-        " country": "Bulgaria",
-        " cases": "1188",
-        " dead": "54",
-        " recovered": "193"
-    },
     "82": {
         "index": "82",
-        " country": "New Zealand",
-        " cases": "1117",
-        " dead": "18",
-        " recovered": "1118"
+        " country": "Nigeria",
+        " cases": "1182",
+        " dead": "35",
+        " recovered": "222"
     },
     "83": {
         "index": "83",
-        " country": "Nigeria",
-        " cases": "1095",
-        " dead": "32",
-        " recovered": "208"
+        " country": "New Zealand",
+        " cases": "1121",
+        " dead": "18",
+        " recovered": "1142"
     },
     "84": {
         "index": "84",
         " country": "Ivory Coast",
-        " cases": "1077",
+        " cases": "1111",
         " dead": "14",
-        " recovered": "419"
+        " recovered": "449"
     },
     "85": {
         "index": "85",
         " country": "Hong Kong",
-        " cases": "1036",
+        " cases": "1038",
         " dead": "4",
-        " recovered": "725"
+        " recovered": "753"
     },
     "86": {
         "index": "86",
         " country": "Djibouti",
-        " cases": "999",
+        " cases": "1008",
         " dead": "2",
-        " recovered": "330"
+        " recovered": "373"
     },
     "87": {
         "index": "87",
         " country": "Guinea",
-        " cases": "954",
-        " dead": "6",
-        " recovered": "191"
+        " cases": "996",
+        " dead": "7",
+        " recovered": "208"
     },
     "88": {
         "index": "88",
         " country": "Tunisia",
-        " cases": "922",
+        " cases": "939",
         " dead": "38",
-        " recovered": "194"
+        " recovered": "207"
     },
     "89": {
         "index": "89",
         " country": "Bolivia",
-        " cases": "807",
-        " dead": "44",
+        " cases": "866",
+        " dead": "46",
         " recovered": "54"
     },
     "90": {
         "index": "90",
-        " country": "Cyprus",
-        " cases": "804",
-        " dead": "14",
-        " recovered": "98"
+        " country": "Latvia",
+        " cases": "812",
+        " dead": "12",
+        " recovered": "267"
     },
     "91": {
         "index": "91",
-        " country": "Latvia",
-        " cases": "784",
-        " dead": "12",
-        " recovered": "133"
+        " country": "Cyprus",
+        " cases": "810",
+        " dead": "14",
+        " recovered": "148"
     },
     "92": {
         "index": "92",
         " country": "Andorra",
-        " cases": "731",
+        " cases": "738",
         " dead": "40",
         " recovered": "344"
     },
     "93": {
         "index": "93",
         " country": "Kosovo",
-        " cases": "703",
-        " dead": "19",
-        " recovered": "162"
+        " cases": "731",
+        " dead": "20",
+        " recovered": "165"
     },
     "94": {
         "index": "94",
-        " country": "Lebanon",
-        " cases": "696",
-        " dead": "22",
-        " recovered": "140"
+        " country": "Albania",
+        " cases": "712",
+        " dead": "27",
+        " recovered": "403"
     },
     "95": {
         "index": "95",
-        " country": "Costa Rica",
-        " cases": "687",
-        " dead": "6",
-        " recovered": "196"
+        " country": "Lebanon",
+        " cases": "704",
+        " dead": "24",
+        " recovered": "143"
     },
     "96": {
         "index": "96",
-        " country": "Niger",
-        " cases": "681",
-        " dead": "24",
-        " recovered": "289"
+        " country": "Costa Rica",
+        " cases": "693",
+        " dead": "6",
+        " recovered": "242"
     },
     "97": {
         "index": "97",
-        " country": "Albania",
-        " cases": "678",
+        " country": "Niger",
+        " cases": "684",
         " dead": "27",
-        " recovered": "394"
+        " recovered": "325"
     },
     "98": {
         "index": "98",
         " country": "Kyrgyzstan",
-        " cases": "665",
+        " cases": "682",
         " dead": "8",
-        " recovered": "345"
+        " recovered": "370"
     },
     "99": {
         "index": "99",
         " country": "Burkina Faso",
         " cases": "629",
         " dead": "41",
-        " recovered": "425"
+        " recovered": "442"
     },
     "100": {
         "index": "100",
-        " country": "Uruguay",
-        " cases": "563",
-        " dead": "12",
-        " recovered": "369"
+        " country": "Honduras",
+        " cases": "627",
+        " dead": "59",
+        " recovered": "65"
     },
     "101": {
         "index": "101",
-        " country": "Honduras",
-        " cases": "591",
-        " dead": "55",
-        " recovered": "58"
+        " country": "Senegal",
+        " cases": "614",
+        " dead": "6",
+        " recovered": "276"
     },
     "102": {
         "index": "102",
-        " country": "Senegal",
-        " cases": "545",
-        " dead": "6",
-        " recovered": "262"
+        " country": "Uruguay",
+        " cases": "596",
+        " dead": "14",
+        " recovered": "370"
     },
     "103": {
         "index": "103",
@@ -722,45 +722,45 @@
     },
     "104": {
         "index": "104",
-        " country": "Malta",
-        " cases": "447",
-        " dead": "3",
-        " recovered": "223"
+        " country": "Georgia",
+        " cases": "485",
+        " dead": "6",
+        " recovered": "139"
     },
     "105": {
         "index": "105",
-        " country": "Georgia",
-        " cases": "444",
-        " dead": "5",
-        " recovered": "132"
+        " country": "Guatemala",
+        " cases": "473",
+        " dead": "13",
+        " recovered": "45"
     },
     "106": {
         "index": "106",
-        " country": "Jordan",
-        " cases": "441",
+        " country": "Sri Lanka",
+        " cases": "467",
         " dead": "7",
-        " recovered": "326"
+        " recovered": "120"
     },
     "107": {
         "index": "107",
-        " country": "Guatemala",
-        " cases": "430",
-        " dead": "11",
-        " recovered": "30"
+        " country": "Malta",
+        " cases": "448",
+        " dead": "4",
+        " recovered": "249"
     },
     "108": {
         "index": "108",
-        " country": "Taiwan",
-        " cases": "429",
-        " dead": "6",
-        " recovered": "275"
+        " country": "Jordan",
+        " cases": "444",
+        " dead": "7",
+        " recovered": "332"
     },
     "109": {
         "index": "109",
-        " country": "Sri Lanka",
-        " cases": "420",
-        " dead": "7",
-        " recovered": "109"
+        " country": "Taiwan",
+        " cases": "429",
+        " dead": "6",
+        " recovered": "281"
     },
     "110": {
         "index": "110",
@@ -771,212 +771,212 @@
     },
     "111": {
         "index": "111",
-        " country": "Palestine",
-        " cases": "339",
-        " dead": "2",
-        " recovered": "91"
+        " country": "Somalia",
+        " cases": "390",
+        " dead": "18",
+        " recovered": "8"
     },
     "112": {
         "index": "112",
-        " country": "Kenya",
-        " cases": "336",
-        " dead": "14",
-        " recovered": "95"
+        " country": "Mali",
+        " cases": "370",
+        " dead": "21",
+        " recovered": "91"
     },
     "113": {
         "index": "113",
+        " country": "Kenya",
+        " cases": "343",
+        " dead": "14",
+        " recovered": "95"
+    },
+    "114": {
+        "index": "114",
+        " country": "Palestine",
+        " cases": "341",
+        " dead": "2",
+        " recovered": "91"
+    },
+    "115": {
+        "index": "115",
         " country": "Mauritius",
         " cases": "331",
         " dead": "9",
         " recovered": "285"
     },
-    "114": {
-        "index": "114",
-        " country": "Somalia",
-        " cases": "328",
-        " dead": "16",
-        " recovered": "8"
-    },
-    "115": {
-        "index": "115",
-        " country": "Mali",
-        " cases": "325",
-        " dead": "21",
-        " recovered": "87"
-    },
     "116": {
         "index": "116",
-        " country": "Montenegro",
-        " cases": "319",
-        " dead": "6",
-        " recovered": "123"
+        " country": "Venezuela",
+        " cases": "323",
+        " dead": "10",
+        " recovered": "132"
     },
     "117": {
         "index": "117",
-        " country": "Venezuela",
-        " cases": "318",
-        " dead": "10",
-        " recovered": "128"
+        " country": "Montenegro",
+        " cases": "320",
+        " dead": "6",
+        " recovered": "153"
     },
     "118": {
         "index": "118",
         " country": "Isle of Man",
         " cases": "308",
         " dead": "18",
-        " recovered": "230"
+        " recovered": "243"
     },
     "119": {
         "index": "119",
-        " country": "Jamaica",
-        " cases": "288",
-        " dead": "7",
-        " recovered": "28"
+        " country": "Tanzania",
+        " cases": "299",
+        " dead": "10",
+        " recovered": "48"
     },
     "120": {
         "index": "120",
-        " country": "Tanzania",
-        " cases": "284",
-        " dead": "10",
-        " recovered": "11"
+        " country": "Jamaica",
+        " cases": "305",
+        " dead": "7",
+        " recovered": "28"
     },
     "121": {
         "index": "121",
-        " country": "Jersey",
-        " cases": "278",
-        " dead": "19",
-        " recovered": "165"
+        " country": "El Salvador",
+        " cases": "298",
+        " dead": "8",
+        " recovered": "83"
     },
     "122": {
         "index": "122",
+        " country": "Jersey",
+        " cases": "280",
+        " dead": "19",
+        " recovered": "165"
+    },
+    "123": {
+        "index": "123",
         " country": "Vietnam",
         " cases": "270",
         " dead": "0",
         " recovered": "225"
     },
-    "123": {
-        "index": "123",
-        " country": "El Salvador",
-        " cases": "261",
-        " dead": "8",
-        " recovered": "72"
-    },
     "124": {
         "index": "124",
-        " country": "Guernsey",
-        " cases": "245",
-        " dead": "11",
-        " recovered": "155"
+        " country": "Equatorial Guinea",
+        " cases": "258",
+        " dead": "1",
+        " recovered": "8"
     },
     "125": {
         "index": "125",
-        " country": "Paraguay",
-        " cases": "223",
-        " dead": "9",
-        " recovered": "78"
+        " country": "Guernsey",
+        " cases": "245",
+        " dead": "12",
+        " recovered": "167"
     },
     "126": {
         "index": "126",
-        " country": "Equatorial Guinea",
-        " cases": "214",
-        " dead": "1",
-        " recovered": "7"
+        " country": "Paraguay",
+        " cases": "228",
+        " dead": "9",
+        " recovered": "85"
     },
     "127": {
         "index": "127",
-        " country": "Republic of the Congo",
-        " cases": "200",
-        " dead": "6",
+        " country": "Sudan",
+        " cases": "213",
+        " dead": "17",
         " recovered": "19"
     },
     "128": {
         "index": "128",
+        " country": "Republic of the Congo",
+        " cases": "200",
+        " dead": "8",
+        " recovered": "19"
+    },
+    "129": {
+        "index": "129",
         " country": "Faroe Islands",
         " cases": "187",
         " dead": "0",
         " recovered": "178"
     },
-    "129": {
-        "index": "129",
-        " country": "Rwanda",
-        " cases": "176",
-        " dead": "0",
-        " recovered": "87"
-    },
     "130": {
         "index": "130",
-        " country": "Sudan",
-        " cases": "174",
-        " dead": "16",
-        " recovered": "14"
+        " country": "Rwanda",
+        " cases": "183",
+        " dead": "0",
+        " recovered": "88"
     },
     "131": {
         "index": "131",
-        " country": "Gabon",
-        " cases": "174",
-        " dead": "3",
-        " recovered": "26"
+        " country": "Maldives",
+        " cases": "177",
+        " dead": "0",
+        " recovered": "17"
     },
     "132": {
         "index": "132",
-        " country": "Myanmar",
-        " cases": "144",
-        " dead": "5",
-        " recovered": "9"
+        " country": "Gabon",
+        " cases": "176",
+        " dead": "3",
+        " recovered": "30"
     },
     "133": {
         "index": "133",
-        " country": "Brunei",
-        " cases": "138",
-        " dead": "1",
-        " recovered": "120"
+        " country": "Myanmar",
+        " cases": "146",
+        " dead": "5",
+        " recovered": "10"
     },
     "134": {
         "index": "134",
+        " country": "Brunei",
+        " cases": "138",
+        " dead": "1",
+        " recovered": "121"
+    },
+    "135": {
+        "index": "135",
         " country": "Guam",
         " cases": "138",
         " dead": "5",
         " recovered": "126"
     },
-    "135": {
-        "index": "135",
+    "136": {
+        "index": "136",
         " country": "Gibraltar",
-        " cases": "133",
+        " cases": "136",
         " dead": "0",
         " recovered": "131"
     },
-    "136": {
-        "index": "136",
-        " country": "Maldives",
-        " cases": "128",
-        " dead": "0",
-        " recovered": "16"
-    },
     "137": {
         "index": "137",
+        " country": "Madagascar",
+        " cases": "123",
+        " dead": "0",
+        " recovered": "62"
+    },
+    "138": {
+        "index": "138",
         " country": "Cambodia",
         " cases": "122",
         " dead": "0",
         " recovered": "117"
     },
-    "138": {
-        "index": "138",
-        " country": "Madagascar",
-        " cases": "122",
-        " dead": "0",
-        " recovered": "61"
-    },
     "139": {
         "index": "139",
         " country": "Ethiopia",
-        " cases": "117",
+        " cases": "122",
         " dead": "3",
-        " recovered": "25"
+        " recovered": "29"
     },
     "140": {
         "index": "140",
         " country": "Liberia",
-        " cases": "117",
-        " dead": "8",
+        " cases": "120",
+        " dead": "11",
         " recovered": "25"
     },
     "141": {
@@ -984,96 +984,96 @@
         " country": "Trinidad & Tobago",
         " cases": "115",
         " dead": "8",
-        " recovered": "45"
+        " recovered": "52"
     },
     "142": {
         "index": "142",
+        " country": "Bermuda",
+        " cases": "109",
+        " dead": "5",
+        " recovered": "39"
+    },
+    "143": {
+        "index": "143",
         " country": "Northern Cyprus",
         " cases": "108",
         " dead": "3",
         " recovered": "52"
     },
-    "143": {
-        "index": "143",
+    "144": {
+        "index": "144",
         " country": "Aruba",
         " cases": "100",
         " dead": "2",
         " recovered": "69"
     },
-    "144": {
-        "index": "144",
-        " country": "Bermuda",
-        " cases": "99",
-        " dead": "5",
-        " recovered": "39"
-    },
     "145": {
         "index": "145",
+        " country": "Togo",
+        " cases": "96",
+        " dead": "6",
+        " recovered": "62"
+    },
+    "146": {
+        "index": "146",
         " country": "Monaco",
         " cases": "94",
         " dead": "4",
         " recovered": "35"
     },
-    "146": {
-        "index": "146",
-        " country": "Togo",
-        " cases": "90",
-        " dead": "6",
-        " recovered": "59"
-    },
     "147": {
         "index": "147",
         " country": "Cape Verde",
-        " cases": "88",
+        " cases": "90",
         " dead": "1",
         " recovered": "1"
     },
     "148": {
         "index": "148",
+        " country": "Sierra Leone",
+        " cases": "86",
+        " dead": "3",
+        " recovered": "10"
+    },
+    "149": {
+        "index": "149",
         " country": "Zambia",
         " cases": "84",
         " dead": "3",
         " recovered": "37"
     },
-    "149": {
-        "index": "149",
+    "150": {
+        "index": "150",
         " country": "Liechtenstein",
         " cases": "82",
         " dead": "1",
         " recovered": "55"
     },
-    "150": {
-        "index": "150",
-        " country": "Sierra Leone",
-        " cases": "82",
-        " dead": "3",
-        " recovered": "10"
-    },
     "151": {
         "index": "151",
         " country": "Barbados",
-        " cases": "77",
+        " cases": "79",
         " dead": "6",
-        " recovered": "31"
+        " recovered": "32"
     },
     "152": {
         "index": "152",
+        " country": "Bahamas",
+        " cases": "78",
+        " dead": "11",
+        " recovered": "15"
+    },
+    "153": {
+        "index": "153",
         " country": "Uganda",
         " cases": "75",
         " dead": "0",
         " recovered": "46"
     },
-    "153": {
-        "index": "153",
-        " country": "Bahamas",
-        " cases": "73",
-        " dead": "11",
-        " recovered": "15"
-    },
     "154": {
         "index": "154",
         " country": "Guyana",
-        " cases": "73",
+        " cases": "74",
         " dead": "8",
         " recovered": "12"
     },
@@ -1100,94 +1100,94 @@
     },
     "158": {
         "index": "158",
+        " country": "Mozambique",
+        " cases": "70",
+        " dead": "0",
+        " recovered": "12"
+    },
+    "159": {
+        "index": "159",
         " country": "Donetsk PR",
         " cases": "67",
         " dead": "1",
         " recovered": "2"
     },
-    "159": {
-        "index": "159",
+    "160": {
+        "index": "160",
         " country": "Libya",
         " cases": "61",
         " dead": "2",
         " recovered": "18"
     },
-    "160": {
-        "index": "160",
+    "161": {
+        "index": "161",
         " country": "French Polynesia",
         " cases": "57",
         " dead": "0",
         " recovered": "35"
     },
-    "161": {
-        "index": "161",
+    "162": {
+        "index": "162",
+        " country": "Eswatini",
+        " cases": "56",
+        " dead": "1",
+        " recovered": "10"
+    },
+    "163": {
+        "index": "163",
         " country": "Benin",
         " cases": "54",
         " dead": "1",
         " recovered": "27"
     },
-    "162": {
-        "index": "162",
+    "164": {
+        "index": "164",
         " country": "U.S. Virgin Islands",
         " cases": "54",
         " dead": "3",
         " recovered": "50"
     },
-    "163": {
-        "index": "163",
+    "165": {
+        "index": "165",
         " country": "Guinea-Bissau",
         " cases": "52",
         " dead": "0",
         " recovered": "3"
     },
-    "164": {
-        "index": "164",
+    "166": {
+        "index": "166",
         " country": "Nepal",
         " cases": "48",
         " dead": "0",
         " recovered": "10"
     },
-    "165": {
-        "index": "165",
+    "167": {
+        "index": "167",
         " country": "Luhansk PR",
         " cases": "48",
         " dead": "0",
         " recovered": "7"
     },
-    "166": {
-        "index": "166",
-        " country": "Mozambique",
+    "168": {
+        "index": "168",
+        " country": "Chad",
         " cases": "46",
         " dead": "0",
-        " recovered": "9"
+        " recovered": "15"
     },
-    "167": {
-        "index": "167",
+    "169": {
+        "index": "169",
         " country": "Macau",
         " cases": "45",
         " dead": "0",
         " recovered": "27"
     },
-    "168": {
-        "index": "168",
+    "170": {
+        "index": "170",
         " country": "Syria",
         " cases": "42",
         " dead": "3",
-        " recovered": "6"
-    },
-    "169": {
-        "index": "169",
-        " country": "Chad",
-        " cases": "40",
-        " dead": "0",
-        " recovered": "8"
-    },
-    "170": {
-        "index": "170",
-        " country": "Eswatini",
-        " cases": "40",
-        " dead": "1",
-        " recovered": "10"
+        " recovered": "11"
     },
     "171": {
         "index": "171",
@@ -1199,7 +1199,7 @@
     "172": {
         "index": "172",
         " country": "Mongolia",
-        " cases": "36",
+        " cases": "37",
         " dead": "0",
         " recovered": "9"
     },
@@ -1213,7 +1213,7 @@
     "174": {
         "index": "174",
         " country": "Zimbabwe",
-        " cases": "29",
+        " cases": "31",
         " dead": "4",
         " recovered": "2"
     },
@@ -1268,45 +1268,45 @@
     },
     "182": {
         "index": "182",
+        " country": "Grenada",
+        " cases": "18",
+        " dead": "0",
+        " recovered": "7"
+    },
+    "183": {
+        "index": "183",
         " country": "New Caledonia",
         " cases": "18",
         " dead": "0",
         " recovered": "17"
     },
-    "183": {
-        "index": "183",
+    "184": {
+        "index": "184",
         " country": "Central African Republic",
         " cases": "16",
         " dead": "0",
         " recovered": "10"
     },
-    "184": {
-        "index": "184",
+    "185": {
+        "index": "185",
         " country": "Cura\u00e7ao",
         " cases": "16",
         " dead": "1",
         " recovered": "12"
     },
-    "185": {
-        "index": "185",
+    "186": {
+        "index": "186",
         " country": "Dominica",
         " cases": "16",
         " dead": "0",
-        " recovered": "9"
-    },
-    "186": {
-        "index": "186",
-        " country": "Namibia",
-        " cases": "16",
-        " dead": "0",
-        " recovered": "7"
+        " recovered": "10"
     },
     "187": {
         "index": "187",
-        " country": "Grenada",
-        " cases": "15",
+        " country": "Namibia",
+        " cases": "16",
         " dead": "0",
-        " recovered": "7"
+        " recovered": "8"
     },
     "188": {
         "index": "188",
@@ -1345,38 +1345,38 @@
     },
     "193": {
         "index": "193",
+        " country": "Nicaragua",
+        " cases": "12",
+        " dead": "3",
+        " recovered": "7"
+    },
+    "194": {
+        "index": "194",
         " country": "\u00c5land Islands",
         " cases": "11",
         " dead": "0",
         " recovered": "0"
     },
-    "194": {
-        "index": "194",
+    "195": {
+        "index": "195",
         " country": "Burundi",
         " cases": "11",
         " dead": "1",
         " recovered": "4"
     },
-    "195": {
-        "index": "195",
+    "196": {
+        "index": "196",
         " country": "Greenland",
         " cases": "11",
         " dead": "0",
         " recovered": "11"
     },
-    "196": {
-        "index": "196",
+    "197": {
+        "index": "197",
         " country": "Montserrat",
         " cases": "11",
         " dead": "0",
         " recovered": "2"
-    },
-    "197": {
-        "index": "197",
-        " country": "Nicaragua",
-        " cases": "11",
-        " dead": "3",
-        " recovered": "7"
     },
     "198": {
         "index": "198",
@@ -1443,24 +1443,24 @@
     },
     "207": {
         "index": "207",
+        " country": "British Virgin Islands",
+        " cases": "6",
+        " dead": "1",
+        " recovered": "3"
+    },
+    "208": {
+        "index": "208",
         " country": "Somaliland",
         " cases": "6",
         " dead": "0",
         " recovered": "1"
     },
-    "208": {
-        "index": "208",
+    "209": {
+        "index": "209",
         " country": "South Sudan",
         " cases": "5",
         " dead": "0",
         " recovered": "0"
-    },
-    "209": {
-        "index": "209",
-        " country": "British Virgin Islands",
-        " cases": "4",
-        " dead": "1",
-        " recovered": "2"
     },
     "210": {
         "index": "210",
@@ -1474,7 +1474,7 @@
         " country": "Abkhazia",
         " cases": "3",
         " dead": "0",
-        " recovered": "1"
+        " recovered": "2"
     },
     "212": {
         "index": "212",
@@ -1508,7 +1508,7 @@
         "index": "216",
         " country": "Guantanamo Bay",
         " cases": "1",
-        " dead": "0",
+        " dead": "\u2014",
         " recovered": "\u2014"
     },
     "217": {
