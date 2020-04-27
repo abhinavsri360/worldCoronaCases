@@ -27,9 +27,9 @@ for i in range (2,220):
 	haha = containers[i].findAll("th")
 	index = str(i-1)
 	country = haha[1].a.text
-	cases = lol[0].text.strip().replace(',','')
-	dead = lol[1].text.strip().replace(',','')
-	recovered = lol[2].text.strip().replace(',','')
+	cases = lol[0].text.strip().replace(',','').replace(u'\u2009','')
+	dead = lol[1].text.strip().replace(',','').replace(u'\u2009','')
+	recovered = lol[2].text.strip().replace(',','').replace(u'\u2009','')
 	f.write(index + "," + country + "," + cases + "," + dead + "," + recovered + "\n")
 
 f.close()
