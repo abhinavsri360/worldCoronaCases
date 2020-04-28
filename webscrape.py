@@ -22,7 +22,7 @@ f = open(filename, "w")
 header = "index,country,cases,dead,recovered\n"
 f.write(header)
 
-for i in range (2,220):
+for i in range (2,219):
 	lol = containers[i].findAll("td")
 	haha = containers[i].findAll("th")
 	index = str(i-1)
