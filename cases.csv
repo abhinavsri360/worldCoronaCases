@@ -1,84 +1,84 @@
 index,country,cases,dead,recovered
-1,United States,1010277,56634,113854
-2,Spain,209465,23521,100875
-3,Italy,199414,26977,66624
-4,Germany,158758,6126,107595
+1,United States,1021246,57640,114585
+2,Spain,210773,23822,102548
+3,Italy,201505,27359,68941
+4,Germany,159044,6164,109317
 5,United Kingdom,157149,21092,—
 6,France,128339,23293,45513
-7,Turkey,112261,2900,33791
+7,Turkey,114653,2992,38809
 8,Russia,93558,867,8456
-9,Iran,91472,5806,70933
+9,Iran,92584,5877,72439
 10,China,82836,4633,77555
-11,Brazil,66896,4555,30152
-12,Canada,48500,2707,18268
-13,Belgium,46687,7207,10878
-14,Netherlands,38245,4518,—
-15,India,29435,934,6869
-16,Switzerland,29164,1663,22200
+11,Brazil,66896,4555,31142
+12,Canada,49040,2769,18720
+13,Belgium,47334,7331,10943
+14,Netherlands,38416,4566,—
+15,India,29974,937,7027
+16,Switzerland,29264,1380,22200
 17,Peru,28699,782,8425
-18,Portugal,24027,928,1357
+18,Portugal,24322,948,1389
 19,Ecuador,23240,663,1557
-20,Ireland,19648,1102,9233
-21,Sweden,18926,2274,1005
-22,Saudi Arabia,18811,144,2531
-23,Israel,15555,204,7200
+20,Saudi Arabia,20077,152,2784
+21,Ireland,19877,1159,9233
+22,Sweden,19621,2355,1005
+23,Israel,15589,208,7375
 24,Mexico,15529,1434,2627
-25,Austria,15256,549,12362
-26,Singapore,14951,14,1095
+25,Austria,15256,569,12580
+26,Singapore,14951,14,1128
 27,Pakistan,14079,301,3233
-28,Chile,13813,198,7327
-29,Japan,13757,397,2905
-30,Poland,11902,562,2466
-31,Romania,11339,631,3141
-32,Belarus,11289,75,1740
-33,Qatar,11244,10,1066
-34,United Arab Emirates,10839,82,2090
+28,Japan,13895,413,3187
+29,Chile,13813,198,7327
+30,Belarus,12208,79,1993
+31,Qatar,11921,10,1134
+32,Poland,11902,562,2466
+33,Romania,11616,650,3404
+34,United Arab Emirates,11380,89,2181
 35,South Korea,10752,244,8854
-36,Ukraine,9410,239,992
-37,Indonesia,9096,765,1151
-38,Denmark,8698,427,5959
-39,Serbia,8275,162,1209
+36,Indonesia,9511,773,1254
+37,Ukraine,9410,239,992
+38,Denmark,8851,434,6121
+39,Serbia,8497,168,1260
 40,Philippines,7958,530,975
 41,Norway,7599,205,—
 42,Czech Republic,7449,223,2842
 43,Australia,6725,84,5602
 44,Dominican Republic,6293,282,993
 45,Panama,6021,167,455
-46,Bangladesh,5913,152,131
+46,Bangladesh,6462,155,139
 47,Malaysia,5851,100,4032
 48,Colombia,5597,253,1210
 49,South Africa,4793,90,1473
 50,Egypt,4782,337,1236
 51,Finland,4695,193,2500
-52,Morocco,4120,162,695
+52,Morocco,4246,163,739
 53,Argentina,3990,197,1129
 54,Luxembourg,3729,88,3123
-55,Algeria,3517,432,1558
+55,Algeria,3649,437,1651
 56,Moldova,3481,102,925
 57,Kuwait,3288,22,1012
 58,Thailand,2938,54,2652
 59,Kazakhstan,2835,25,725
-60,Bahrain,2723,8,1218
+60,Bahrain,2810,8,1246
 61,Hungary,2649,291,516
 62,Greece,2534,136,577
 63,Oman,2049,10,364
-64,Croatia,2039,59,1166
-65,Uzbekistan,1904,8,892
+64,Croatia,2047,63,1232
+65,Uzbekistan,1939,8,958
 66,Iraq,1847,88,1286
-67,Armenia,1808,29,848
-68,Iceland,1792,10,1624
-69,Cameroon,1705,58,805
-70,Afghanistan,1703,57,220
+67,Afghanistan,1828,58,228
+68,Armenia,1808,29,848
+69,Iceland,1792,10,1624
+70,Cameroon,1705,58,805
 71,Azerbaijan,1678,22,1162
 72,Estonia,1647,50,233
 73,Bosnia & Herzegovina,1565,60,659
 74,Ghana,1550,11,155
 75,New Zealand,1472,19,1214
 76,Lithuania,1449,41,474
-77,Slovenia,1402,83,221
-78,North Macedonia,1399,65,553
-79,Cuba,1389,56,525
-80,Puerto Rico,1389,84,—
+77,North Macedonia,1421,71,589
+78,Slovenia,1402,83,221
+79,Puerto Rico,1400,86,—
+80,Cuba,1389,56,525
 81,Slovakia,1381,18,403
 82,Bulgaria,1363,58,206
 83,Nigeria,1337,40,255
@@ -91,8 +91,8 @@ index,country,cases,dead,recovered
 90,Cyprus,822,15,148
 91,Latvia,818,13,267
 92,Kosovo,780,22,201
-93,Andorra,743,40,385
-94,Albania,736,28,422
+93,Albania,750,30,431
+94,Andorra,743,40,385
 95,Senegal,735,9,284
 96,Lebanon,710,24,145
 97,Honduras,702,64,73
@@ -100,11 +100,11 @@ index,country,cases,dead,recovered
 99,Costa Rica,697,6,287
 100,Kyrgyzstan,695,8,395
 101,Burkina Faso,632,42,453
-102,Uruguay,606,15,375
-103,Sri Lanka,588,7,126
+102,Sri Lanka,611,7,134
+103,Uruguay,606,15,375
 104,San Marino,538,41,64
-105,Georgia,511,6,156
-106,Guatemala,500,15,49
+105,Guatemala,530,15,49
+106,Georgia,511,6,156
 107,Palestine,495,2,83
 108,Somalia,480,23,10
 109,DR Congo,459,28,50
@@ -113,38 +113,38 @@ index,country,cases,dead,recovered
 112,Taiwan,429,6,307
 113,Mali,408,23,112
 114,Jamaica,364,7,29
-115,Kenya,363,14,114
+115,Kenya,374,14,124
 116,Mauritius,334,9,302
 117,Venezuela,329,10,142
 118,El Salvador,323,8,89
 119,Montenegro,321,7,189
 120,Isle of Man,308,20,248
 121,Tanzania,299,10,48
-122,Jersey,281,19,170
+122,Jersey,284,20,185
 123,Sudan,275,22,21
 124,Vietnam,270,0,222
 125,Equatorial Guinea,258,1,9
-126,Guernsey,247,13,171
+126,Guernsey,247,13,191
 127,Maldives,228,0,17
 128,Paraguay,228,9,85
 129,Gabon,211,3,43
 130,Congo,207,8,19
 131,Rwanda,207,0,93
-132,Faroe Islands,187,0,178
-133,Myanmar,146,5,16
+132,Faroe Islands,187,0,181
+133,Myanmar,149,5,16
 134,Gibraltar,141,0,131
 135,Guam,141,5,128
 136,Brunei,138,1,124
 137,Liberia,133,12,25
 138,Madagascar,128,0,71
-139,Ethiopia,124,3,50
+139,Ethiopia,126,3,50
 140,Cambodia,122,0,119
 141,Trinidad & Tobago,116,8,59
 142,Bermuda,110,6,44
 143,Cape Verde,109,1,1
 144,Northern Cyprus,108,3,52
-145,Aruba,100,2,73
-146,Sierra Leone,99,4,10
+145,Sierra Leone,104,4,12
+146,Aruba,100,2,73
 147,Togo,99,6,62
 148,Monaco,95,4,42
 149,Zambia,89,3,42
@@ -153,9 +153,9 @@ index,country,cases,dead,recovered
 152,Barbados,80,6,39
 153,Uganda,79,0,47
 154,Mozambique,76,0,9
-155,Guyana,74,8,12
-156,Haiti,74,6,7
-157,Sint Maarten,74,13,33
+155,Sint Maarten,75,13,33
+156,Guyana,74,8,12
+157,Haiti,74,6,7
 158,Guinea-Bissau,73,1,18
 159,Cayman Islands,70,1,10
 160,Donetsk PR,67,1,2
@@ -200,7 +200,7 @@ index,country,cases,dead,recovered
 199,Seychelles,11,0,7
 200,The Gambia,10,1,8
 201,Suriname,10,1,7
-202,Vatican City,9,0,2
+202,Vatican City,10,0,2
 203,Papua New Guinea,8,0,0
 204,Artsakh,7,0,0
 205,Bhutan,7,0,3
